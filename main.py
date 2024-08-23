@@ -63,6 +63,10 @@ OPENROUTER_MODELS = [
     "google/gemini-pro-1.5-exp",
     "perplexity/llama-3.1-sonar-small-128k-chat",
     "meta-llama/llama-3.1-8b-instruct:free",
+    "microsoft/phi-3.5-mini-128k-instruct",
+    "nousresearch/hermes-3-llama-3.1-70b",
+    "nousresearch/hermes-3-llama-3.1-405b",
+    "nousresearch/hermes-3-llama-3.1-405b:extended",
 ]
 
 TOGETHER_MODELS = [
